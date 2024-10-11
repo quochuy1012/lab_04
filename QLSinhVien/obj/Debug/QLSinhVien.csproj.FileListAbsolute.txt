@@ -1,0 +1,30 @@
+D:\Visual workspace\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.exe.config
+D:\Visual workspace\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.exe
+D:\Visual workspace\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.pdb
+D:\Visual workspace\QLSinhVien\QLSinhVien\bin\Debug\EntityFramework.dll
+D:\Visual workspace\QLSinhVien\QLSinhVien\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual workspace\QLSinhVien\QLSinhVien\bin\Debug\EntityFramework.xml
+D:\Visual workspace\QLSinhVien\QLSinhVien\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual workspace\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.AssemblyReference.cache
+D:\Visual workspace\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.Form1.resources
+D:\Visual workspace\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.Properties.Resources.resources
+D:\Visual workspace\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.GenerateResource.cache
+D:\Visual workspace\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.CoreCompileInputs.cache
+D:\Visual workspace\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.Up2Date
+D:\Visual workspace\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.exe
+D:\Visual workspace\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.pdb
+C:\Users\Windows\Downloads\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.exe.config
+C:\Users\Windows\Downloads\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.exe
+C:\Users\Windows\Downloads\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.pdb
+C:\Users\Windows\Downloads\QLSinhVien\QLSinhVien\bin\Debug\EntityFramework.dll
+C:\Users\Windows\Downloads\QLSinhVien\QLSinhVien\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Windows\Downloads\QLSinhVien\QLSinhVien\bin\Debug\EntityFramework.xml
+C:\Users\Windows\Downloads\QLSinhVien\QLSinhVien\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Windows\Downloads\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.AssemblyReference.cache
+C:\Users\Windows\Downloads\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.Form1.resources
+C:\Users\Windows\Downloads\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.Properties.Resources.resources
+C:\Users\Windows\Downloads\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.GenerateResource.cache
+C:\Users\Windows\Downloads\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Downloads\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.Up2Date
+C:\Users\Windows\Downloads\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.exe
+C:\Users\Windows\Downloads\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.pdb
